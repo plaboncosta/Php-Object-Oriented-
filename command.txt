@@ -1,0 +1,4 @@
+1. git branch // For checking which branch I am using
+2. git branch branch-name // For creating branch
+3. git checkout branch-name // For switching branch
+4. git merge branch-name // For merging branch with master
